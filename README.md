@@ -25,7 +25,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <h3 align="left">Ferramentas:
           </ h3>
           <p align= "left"><a href= <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" </a>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript.svg" alt="JavaScript" width="40" height="40" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"</a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="40" height="40" </a> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"</a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" </a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="40" height="40" </a> 
 
 <h3 align="left"> 📊 Métricas do Github: </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joycetrindade&label=Profile%20views&color=0e75b6&style=flat" alt="joycetrindade" /> </p>
